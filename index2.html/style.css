@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height:100%
+}
+h1{
+    text-align: center;
+    color:#50c7c7;
+    text-decoration: underline ;
+}
+
+.container{
+    height: 600px;
+    width: 100%;
+}
+.about{
+    width: 40%;
+    padding:10px;
+    height: 200px;
+    background-color: #50c7c7;
+    color:rgb(0,0,0);
+    float:left;
+}
+.picture{
+    width: 50%;
+    height: 500px;
+    background-image:url("sweet\ girl.jpg");
+     float:right;
+     background-size:contain;
+}
+
+.quote{
+height:100px;
+width: 50%;
+padding-top:50px;
+margin:auto;
+margin:50px;
+background-color:rgb(125,125,125)
+
+}
